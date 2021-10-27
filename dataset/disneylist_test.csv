@@ -1,0 +1,37 @@
+no,eval,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,popularity,release_date,track.name,track.name
+39,5,0.676,0.928,8,-5.407,1,0.125,0.0869,0,0.217,0.586,138.993,249420,4,38,2018/4/25,Brand New Day - Tokyo Disney Resort 35th Theme Song,Brand New Day - Tokyo Disney Resort 35th Theme Song
+52,4,0.349,0.748,2,-6.163,1,0.152,0.306,6.80E-05,0.105,0.309,144.055,482607,4,17,2018/4/25,Crystal Wishes Journey,Crystal Wishes Journey
+68,3,0.548,0.816,0,-5.695,1,0.277,0.0324,0.0378,0.231,0.498,140.966,254567,4,15,2018/4/25,"Pirates Summer Battle ""Get Wet!"" - Tokyo DisneySea","Pirates Summer Battle ""Get Wet!"" - Tokyo DisneySea"
+70,4,0.542,0.713,9,-7.719,1,0.0668,0.0058,0.000213,0.106,0.148,133.85,268404,4,10,2018/4/25,The Villains' World - Short version for TDS 15th anniversary music album,The Villains' World - Short version for TDS 15th anniversary music album
+71,4,0.366,0.213,11,-10.764,1,0.0384,0.938,0,0.108,0.24,119.812,185907,3,12,2018/4/25,The Gifts of Christmas - Single Version,The Gifts of Christmas - Single Version
+74,4,0.524,0.748,1,-6.864,1,0.0517,0.00494,0.511,0.0517,0.464,145.718,302967,4,10,2018/4/25,Pixar Playtime Pals - Tokyo DisneySea 2018,Pixar Playtime Pals - Tokyo DisneySea 2018
+86,5,0.632,0.917,8,-7,1,0.0823,0.00953,0,0.21,0.749,139.025,251387,4,25,2019/2/16,Brand New Day - Group Vocal Version,Brand New Day - Group Vocal Version
+87,5,0.488,0.738,5,-9.35,1,0.0531,0.00624,3.36E-06,0.36,0.438,143.815,1481787,4,26,2019/2/16,Dreaming Up! - 35th Grand Finale Version,Dreaming Up! - 35th Grand Finale Version
+88,4,0.206,0.673,5,-8.448,1,0.207,0.818,0.000592,0.146,0.245,57.54,1155253,4,16,2019/2/16,Celebrate! Tokyo Disneyland,Celebrate! Tokyo Disneyland
+89,5,0.378,0.63,7,-8.113,1,0.0638,0.267,0,0.285,0.58,138.589,523307,4,18,2019/2/16,"Hello, New York! - 35th Anniversary Edit Version","Hello, New York! - 35th Anniversary Edit Version"
+90,4,0.437,0.766,8,-7.223,1,0.23,0.0332,0,0.0426,0.57,138.751,491427,4,16,2019/2/16,Let's Party Gras! - 35th Anniversary Edit Version,Let's Party Gras! - 35th Anniversary Edit Version
+91,3,0.327,0.428,10,-10.275,1,0.03,0.643,0.00895,0.0827,0.313,90.833,114653,4,13,2019/2/16,Celebration Street - Adventure Version,Celebration Street - Adventure Version
+92,4,0.275,0.774,5,-8.548,0,0.408,0.158,0.163,0.15,0.132,83.522,136493,4,13,2019/2/16,Celebration Street - Halloween Version,Celebration Street - Halloween Version
+93,5,0.327,0.539,7,-7.379,1,0.0452,0.778,0.000559,0.244,0.146,123.803,127680,4,12,2019/2/16,Celebration Street - Christmas Version,Celebration Street - Christmas Version
+94,4,0.182,0.275,0,-10.795,1,0.031,0.874,0.721,0.129,0.124,98.461,126067,4,13,2019/2/16,Celebration Street - Princess Version,Celebration Street - Princess Version
+95,5,0.537,0.883,8,-5.638,1,0.272,0.242,0,0.0538,0.4,139.139,642720,4,15,2019/2/16,Happiest Celebration on the Sea - Mickey Version,Happiest Celebration on the Sea - Mickey Version
+96,5,0.438,0.797,10,-6.319,1,0.242,0.284,0,0.136,0.526,137.661,640467,4,14,2019/2/16,Fashionable Easter - Edit Version,Fashionable Easter - Edit Version
+97,1,0.649,0.553,2,-9.325,1,0.11,0.2,0.573,0.291,0.851,174.147,157573,4,10,2019/2/16,Brand New Day - Ohayashi Style,Brand New Day - Ohayashi Style
+100,3,0.421,0.72,0,-7.404,1,0.245,0.32,0.0426,0.112,0.333,141.075,472747,4,12,2019/2/16,"Pirates Summer Battle ""Get Wet!"" - Edit Version","Pirates Summer Battle ""Get Wet!"" - Edit Version"
+102,4,0.3,0.614,0,-7.112,1,0.0645,0.587,0,0.304,0.275,85.177,633347,4,12,2019/2/16,It's Christmas Time! - Edit Version,It's Christmas Time! - Edit Version
+103,5,0.347,0.607,8,-5.472,1,0.0472,0.256,2.55E-05,0.125,0.322,144.567,290147,4,21,2019/2/16,Brand New Dream,Brand New Dream
+104,5,0.507,0.425,9,-9.709,1,0.0283,0.201,5.82E-05,0.0838,0.0451,124.182,203867,4,18,2019/2/16,Brand New Dream - Afterglow,Brand New Dream - Afterglow
+150,3,0.459,0.774,7,-6.806,1,0.122,0.02,7.95E-05,0.188,0.275,131.759,586827,4,17,2019/2/13,Lightning McQueen Victory Lap,Lightning McQueen Victory Lap
+151,4,0.377,0.436,8,-9.344,1,0.0323,0.201,5.76E-05,0.129,0.234,146.153,334907,3,13,2019/2/13,Chef Remy & You,Chef Remy & You
+152,3,0.612,0.475,8,-11.582,1,0.0439,0.198,0.000201,0.0964,0.642,142.073,339347,4,11,2019/2/13,Pixar Pals Steamers,Pixar Pals Steamers
+153,5,0.582,0.538,2,-10.225,1,0.126,0.634,0.107,0.163,0.729,105.834,182160,4,10,2019/2/13,Toy Storymania,Toy Storymania
+154,1,0.635,0.697,10,-8.644,1,0.478,0.753,0,0.895,0.703,124.766,53720,4,6,2019/2/13,Toy Box Playhouse,Toy Box Playhouse
+155,2,0.566,0.313,0,-11.087,0,0.0248,0.895,0.822,0.0944,0.732,82.984,110173,4,10,2019/2/13,"The Cleaner - From ""Toy Story 2""","The Cleaner - From ""Toy Story 2"""
+156,2,0.718,0.26,9,-17.925,1,0.0418,0.971,0.531,0.354,0.231,114.116,76107,4,8,2019/2/13,"First Day - From ""Finding Nemo""","First Day - From ""Finding Nemo"""
+157,3,0.34,0.613,0,-6.833,1,0.0763,0.455,0,0.31,0.404,173.432,1564667,4,14,2018/11/20,ItÅfs Christmas Time!,ItÅfs Christmas Time!
+265,5,0.412,0.866,10,-3.9,1,0.251,0.393,2.92E-05,0.045,0.515,146.381,838633,4,20,2019/5/10,Tip-Top Easter - Edited Version,Tip-Top Easter - Edited Version
+266,5,0.572,0.876,8,-4.356,1,0.0623,0.211,0,0.306,0.671,145.91,213567,4,24,2019/5/10,Usapiyo: Spring Into My Heart,Usapiyo: Spring Into My Heart
+267,4,0.421,0.897,8,-3.155,1,0.224,0.322,1.09E-06,0.165,0.499,146.102,1724787,4,30,2019/4/17,Tip-Top Easter,Tip-Top Easter
+336,3,0.548,0.846,7,-4.64,1,0.316,0.766,0,0.286,0.578,79.633,264027,4,25,2019/4/17,Usatama on the Run!: Pre-Show (Lecture),Usatama on the Run!: Pre-Show (Lecture)
+337,3,0.415,0.95,7,-3.864,1,0.175,0.348,0,0.326,0.711,165.815,2584640,4,34,2019/4/17,Usatama on the Run!,Usatama on the Run!
+338,3,0.404,0.85,7,-4.957,1,0.0603,0.0533,0,0.322,0.536,169.933,168453,4,32,2019/4/17,Usatama,Usatama
